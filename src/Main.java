@@ -10,6 +10,8 @@ public class Main {
         int d = 0;
         System.in.read(d);
         System.out.println("Hello World! " + c);
-
+        System.out.println("Hello! " + c);
+        System.out.println("Hello!000 " + c);
+        System.out.println("Hello!000 " + c);
     }
 }
